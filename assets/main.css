@@ -4,7 +4,8 @@ body {
   font-size: 18px;
 }
 
-#badges {
+#badges_c,   
+#badges_p {
   text-align: center;
 }
 
